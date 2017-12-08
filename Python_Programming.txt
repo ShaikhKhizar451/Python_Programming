@@ -1,0 +1,5 @@
+print("Addition Of Two Numbers")
+n=float(input("Enter the first Number:"))
+n1=float(input("Enter the second Number:"))
+Summ=n+n1
+print("The Addition Of Two Numbers is",Summ)
